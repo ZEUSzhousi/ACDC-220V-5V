@@ -29,6 +29,9 @@ R4大电阻防止导通时电流流向地 R5小电阻驱动mos管
 R10电流采样电阻，将初级绕组电流转换为电压信号，送入 U1 的 SENSE 引脚，实现逐周期电流限制和过流保护
 R8 C4RC 滤波网络，对 SENSE 信号进行滤波，防止噪声误触发保护
 D3 R7 C5反向电压吸收
+![330f85eb1c4f01dc9461e41689df4684](https://github.com/user-attachments/assets/b8be322a-f5e0-47a6-9197-7eeb3ad459ce)
+![f701f6e1744d6a31fc3d42bbc55a7c49](https://github.com/user-attachments/assets/1a119bca-357f-4e87-9ee3-a0365430ade6)
+
 
 <img width="865" height="740" alt="image" src="https://github.com/user-attachments/assets/0ce6ab87-6f5a-4558-9aa3-87a53f23ba46" />
 
@@ -39,5 +42,8 @@ C7和R18RC滤波提升环路稳定性，防止振荡
 R14为光耦发光二极管提供稳定的偏置电流
 R13分流，避免过大导致光耦进入饱和区，为补偿电容 C7 提供放电路径
 R17 C8 D4截至反向电压，将这部分尖峰能量转移到C8 R17滤波电路中
+![8b4666993e26de2c5ca9c1897bf96ae4](https://github.com/user-attachments/assets/067593a9-d122-4431-9038-88844a74e532)
+
+
 C9 C10 C11输出滤波
 

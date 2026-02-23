@@ -1,5 +1,6 @@
 ![8f06c317682cab9bc97a687a0bc5720d](https://github.com/user-attachments/assets/e8ce3d27-8047-44d4-a575-7ebe4737edbe)# ACDC-220V-5V
 ![微信图片_20260211184046_594_130](https://github.com/user-attachments/assets/0cbcd777-02f7-45fd-b5ab-edcb37779300)
+<img width="432" height="624" alt="image" src="https://github.com/user-attachments/assets/745aee76-b1f5-40e0-bfa9-5ae48fabe2ab" />
 
 <img width="953" height="220" alt="image" src="https://github.com/user-attachments/assets/d87aa429-6cd2-4f4e-9084-9a5dd76ec85f" />
 <img width="926" height="630" alt="image" src="https://github.com/user-attachments/assets/6770eed8-93de-4293-a615-439d5af2da54" />

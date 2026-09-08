@@ -1,12 +1,12 @@
 <img width="4080" height="3072" alt="3c81e4ee5e98adc0c07c7acacd37e049" src="https://github.com/user-attachments/assets/d6646431-6e7f-4963-b793-306fa4409146" />
 <img width="3072" height="4096" alt="8bbe1dfb1d18deaa911b5974a34ad534" src="https://github.com/user-attachments/assets/849cd9c6-0928-4adb-9e36-da97b8e7c498" />
 <img width="630" height="777" alt="1" src="https://github.com/user-attachments/assets/0b6d7910-053e-4270-8eaf-2d902787ec3b" />
-<img width="953" height="220" alt="image" src="https://github.com/user-attachments/assets/d87aa429-6cd2-4f4e-9084-9a5dd76ec85f" />
-<img width="926" height="630" alt="image" src="https://github.com/user-attachments/assets/6770eed8-93de-4293-a615-439d5af2da54" />
+<img width="1048" height="223" alt="2" src="https://github.com/user-attachments/assets/f9b7f727-0c51-43ed-b872-c87b2b9032f5" />
+<img width="1122" height="679" alt="3" src="https://github.com/user-attachments/assets/95a24192-1561-4c04-a926-7f83e2ed4f9c" />
 
 交流电压滤波整流
 
-<img width="865" height="232" alt="image" src="https://github.com/user-attachments/assets/0c7dc41e-46b9-4bcc-8ab9-dd8b31aef38b" />
+<img width="1048" height="223" alt="2" src="https://github.com/user-attachments/assets/1a623ad8-40ce-4701-9bc6-93d263c9f05a" />
 
 F1提供过流保护
 RV1当电网浪涌（如雷击、尖峰）超过阈值时，压敏电阻迅速导通，将浪涌能量泄放到零线 R1断电后泄放电容存储的电荷
@@ -18,7 +18,7 @@ C1和C2率高低频滤波
 
 芯片驱动模块
 
-<img width="633" height="613" alt="image" src="https://github.com/user-attachments/assets/524364f9-8966-42b1-9096-a67837eec8cf" />
+<img width="503" height="513" alt="4" src="https://github.com/user-attachments/assets/51c1c861-0db7-4a33-a7bf-85e991bf6239" />
 
 R2和R3初始启动电流在芯片工作区间
 R9控制芯片工作频率
@@ -32,8 +32,7 @@ D3 R7 C5反向电压吸收
 ![330f85eb1c4f01dc9461e41689df4684](https://github.com/user-attachments/assets/b8be322a-f5e0-47a6-9197-7eeb3ad459ce)
 ![f701f6e1744d6a31fc3d42bbc55a7c49](https://github.com/user-attachments/assets/1a119bca-357f-4e87-9ee3-a0365430ade6)
 
-
-<img width="865" height="740" alt="image" src="https://github.com/user-attachments/assets/0ce6ab87-6f5a-4558-9aa3-87a53f23ba46" />
+<img width="816" height="647" alt="5" src="https://github.com/user-attachments/assets/03975702-695d-4bcc-ae79-72b661e7ddad" />
 
 C6 R11 R12组成RC 网络，对光耦次级输出的 FB 信号进行滤波和补偿
 光耦PC817C 隔离原副边，PC817C初级发光二极管由 TL431 驱动，次级光敏三极管的导通程度反映输出电压误差，调节初级 FB 引脚电压

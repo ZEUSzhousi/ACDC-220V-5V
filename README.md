@@ -6,6 +6,11 @@
 
 <img width="630" height="777" alt="1" src="https://github.com/user-attachments/assets/0b6d7910-053e-4270-8eaf-2d902787ec3b" />
 <img width="1048" height="223" alt="2" src="https://github.com/user-attachments/assets/f9b7f727-0c51-43ed-b872-c87b2b9032f5" />
+
+ 变压器参数
+ EE25磁芯
+ 原边电感1.2mH
+
 <img width="1122" height="679" alt="3" src="https://github.com/user-attachments/assets/95a24192-1561-4c04-a926-7f83e2ed4f9c" />
 
 

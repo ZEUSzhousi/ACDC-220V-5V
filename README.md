@@ -1,5 +1,9 @@
 <img width="4080" height="3072" alt="3c81e4ee5e98adc0c07c7acacd37e049" src="https://github.com/user-attachments/assets/d6646431-6e7f-4963-b793-306fa4409146" />
 <img width="3072" height="4096" alt="8bbe1dfb1d18deaa911b5974a34ad534" src="https://github.com/user-attachments/assets/849cd9c6-0928-4adb-9e36-da97b8e7c498" />
+
+输出波形纹波电压
+[ADS00003.BMP](https://github.com/user-attachments/files/32248178/ADS00003.BMP)
+
 <img width="630" height="777" alt="1" src="https://github.com/user-attachments/assets/0b6d7910-053e-4270-8eaf-2d902787ec3b" />
 <img width="1048" height="223" alt="2" src="https://github.com/user-attachments/assets/f9b7f727-0c51-43ed-b872-c87b2b9032f5" />
 <img width="1122" height="679" alt="3" src="https://github.com/user-attachments/assets/95a24192-1561-4c04-a926-7f83e2ed4f9c" />
